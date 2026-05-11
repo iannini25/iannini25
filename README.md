@@ -2,12 +2,6 @@
 
 **`Full-Stack Developer`**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="280" />
-</div>
-
-> "Me dá um problema e eu resolvo. Simples assim. Pra mim, código não é um fim — é uma ferramenta. A linguagem, o framework, a stack: tudo isso é meio. O que importa é o problema na mesa e a solução que precisa existir. Se a resposta certa for Python, é Python. Se for C#, Flutter, ou um script bash às 3 da manhã, também é. O foco é entregar."
-
 <h1 style="font-size: 28px; font-weight: bold;">👨‍💻 Tech Stack</h1>
 
 <div align="center">
@@ -28,12 +22,7 @@
   <br/>
 
   ###
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iannini25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=iannini25&show_icons=true&theme=dracula&hide_border=false&locale=en" height="150" alt="stats graph" />
-
-  ###
-
+  
   <img src="https://streak-stats.demolab.com?user=iannini25&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
@@ -54,8 +43,6 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/iannini25/iannini25/output/snake.svg" alt="Snake animation" />
 
 <!--
 **iannini25/iannini25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
