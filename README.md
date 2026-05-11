@@ -1,13 +1,12 @@
 // Bernardo Iannini
+Full-Stack Developer
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="280" />
+</div>
 
-**`Full-Stack Developer`**
-
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100%" />
-
-> "Me dá um problema e eu resolvo. Simples assim. Pra mim, código não é um fim — é uma ferramenta. A linguagem, o framework, a stack: tudo isso é meio. O que importa é o problema na mesa e a solução que precisa existir. Se a resposta certa for Python, é Python. Se for C#, Flutter, ou um script bash às 3 da manhã, também é. O foco é entregar."
+"Me dá um problema e eu resolvo. Simples assim. Pra mim, código não é um fim — é uma ferramenta. A linguagem, o framework, a stack: tudo isso é meio. O que importa é o problema na mesa e a solução que precisa existir. Se a resposta certa for Python, é Python. Se for C#, Flutter, ou um script bash às 3 da manhã, também é. O foco é entregar."
 
 <h1 style="font-size: 28px; font-weight: bold;">👨‍💻 Tech Stack</h1>
-
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,30 +24,10 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <br/>
 
-  ###
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iannini25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=iannini25&show_icons=true&theme=dracula&hide_border=false&locale=en" height="150" alt="stats graph" />
 
-  ###
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iannini25&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-</div>
-
----
-
-<h3 align="center">🌐 Onde me encontrar</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bernardo-iannini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bernardo.iannini14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/bernardoaraujo___/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=iannini25&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 ---
