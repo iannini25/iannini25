@@ -2,9 +2,9 @@
 
 **`Full-Stack Developer`**
 
-<img src="https://i.imgur.com/ejEwxmt.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100%" />
 
-> "Desenvolvedor movido a desafios. Para mim, código é a ponte entre um problema e sua solução — e meu trabalho é construir essa ponte da forma mais elegante, performática e escalável possível. Do front-end ao back-end, do mobile ao desktop, transformo necessidades em sistemas que funcionam."
+> "Me dá um problema e eu resolvo. Simples assim. Pra mim, código não é um fim — é uma ferramenta. A linguagem, o framework, a stack: tudo isso é meio. O que importa é o problema na mesa e a solução que precisa existir. Se a resposta certa for Python, é Python. Se for C#, Flutter, ou um script bash às 3 da manhã, também é. O foco é entregar."
 
 <h1 style="font-size: 28px; font-weight: bold;">👨‍💻 Tech Stack</h1>
 
@@ -40,13 +40,13 @@
 <h3 align="center">🌐 Onde me encontrar</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/bernardo-iannini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:bernardo.iannini14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU-USUARIO" target="_blank">
+  <a href="https://www.instagram.com/bernardoaraujo___/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
