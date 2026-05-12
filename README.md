@@ -22,9 +22,7 @@
   <br/>
 
   ###
-  
-  <img src="https://streak-stats.demolab.com?user=iannini25&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-</div>
+
 
 ---
 
