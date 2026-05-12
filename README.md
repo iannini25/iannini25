@@ -22,8 +22,11 @@
   <br/>
 
   ###
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" />
+</picture>
 ---
 
 <h3 align="center">🌐 Onde me encontrar</h3>
